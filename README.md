@@ -4,7 +4,7 @@
 - การใช้ Semantic HTML
 - Form Validation
 - ARIA Labels
-  # คําสงgit ที่ใช้
+# คําสงgit ที่ใช้
 -git add README.md
 -git commit -m "สร้างไฟล์readme"
 -git push
